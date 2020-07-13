@@ -1,0 +1,21 @@
+extends partials/header
+
+block content
+  // Check for any users being passed in from the server
+  if (users && users.length)
+    table.table.table-striped.table-hover
+        thead
+            th User ID
+            th Username
+        tbody
+            // If there is any users, create a row and column for each user
+            each user in users
+                tr
+                    td= user._id
+                    td= user.username
+  else
+    // Else no users
+    h1 No Users!
+
+
+  include partials/footer

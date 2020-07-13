@@ -1,0 +1,3 @@
+C:\Users\kuan\source\repos\PassportAuthentication\PassportAuthentication\obj\Debug\PassportAuthentication.njsprojAssemblyReference.cache
+C:\Users\kuan\source\repos\PassportAuthentication\PassportAuthentication\obj\Debug\PassportAuthentication.njsproj.CoreCompileInputs.cache
+C:\Users\kuan\source\repos\PassportAuthentication\PassportAuthentication\bin\Microsoft.NodejsTools.WebRole.dll
