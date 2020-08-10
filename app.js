@@ -16,7 +16,7 @@ var mongoose = require('mongoose');
 
 
 
-const uri = "mongodb+srv://root:root@cluster0-qgwey.mongodb.net/test?retryWrites=true&w=majority";
+//const uri = "mongodb+srv://root:root@cluster0-qgwey.mongodb.net/test?retryWrites=true&w=majority";
 
 try {
     mongoose.connect(uri, { useNewUrlParser: true });
